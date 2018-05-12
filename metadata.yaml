@@ -1,0 +1,28 @@
+_repo: Twenty-Four-Short-Sermons-On-The-Doctrine-Of-Universal-Salvation_17122
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dods, John Bovee
+    birthdate: 1795
+    deathdate: 1872
+    gutenberg_agent_id: '7151'
+    url: http://www.gutenberg.org/2009/agents/7151
+description: ''
+gutenberg_bookshelf: Christianity
+gutenberg_issued: '2005-11-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17122'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Universalist churches -- Sermons'
+- !lcsh 'Sermons, American'
+- !lcc 'BX'
+title: Twenty-Four Short Sermons On The Doctrine Of Universal Salvation
+url: http://www.gutenberg.org/ebooks/17122
